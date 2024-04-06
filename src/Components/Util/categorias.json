@@ -1,0 +1,204 @@
+[
+  {
+    "id": "mujer",
+    "name": "Mujer",
+    "category": [
+      {
+        "id": "1",
+        "name": "Vestidos",
+        "items": [
+          {
+            "id": "19",
+            "name": "Vestido Blanco",
+            "url": [
+              "./vestidoblancom.webp",
+              "./abrigonyh.webp",
+              "./camisanegram.webp"
+            ],
+            "value": 40,
+            "size": ["S", "M", "L"],
+            "total": 8,
+            "colors": ["white", "black"]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Camisetas",
+        "items": [
+          {
+            "id": "20",
+            "name": "Camiseta Negra",
+            "url": ["./camisanegram.webp"],
+            "value": 5,
+            "size": ["S", "M", "XL"],
+            "total": 1,
+            "colors": ["black", "green"]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Shorts",
+        "items": [
+          {
+            "id": "21",
+            "name": "Short Azul",
+            "url": ["./shortazulm.webp"],
+            "value": 10,
+            "size": ["M", "L"],
+            "total": 4,
+            "colors": ["blue", "black", "white"]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Abrigos",
+        "items": [
+          {
+            "id": "22",
+            "name": "Abrigo Negro",
+            "url": ["./abrigonegrom.webp"],
+            "value": 30,
+            "size": ["S", "M"],
+            "total": 2,
+            "colors": ["black"]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Chaquetas",
+        "items": [
+          {
+            "id": "23",
+            "name": "Chaqueta de Cuero",
+            "url": ["./chaquetacuerom.webp"],
+            "value": 40,
+            "size": ["S", "XL"],
+            "total": 9,
+            "colors": ["gray", "blue"]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "name": "Suéteres",
+        "items": [
+          {
+            "id": "24",
+            "name": "Enguatada Gris",
+            "url": ["./enguatadagrism.webp"],
+            "value": 10,
+            "size": ["S"],
+            "total": 7,
+            "colors": ["gray", "yellow"]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "name": "Pantalones",
+        "items": [
+          {
+            "id": "25",
+            "name": "Pantalon de Mesclilla",
+            "url": ["./pantalonmesclillam.webp"],
+            "value": 25,
+            "size": ["L"],
+            "total": 6,
+            "colors": ["blue", "green", "pink"]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "name": "Licras",
+        "items": [
+          {
+            "id": "26",
+            "name": "Licra Negra",
+            "url": ["./licranegram.webp"],
+            "value": 4,
+            "size": ["S", "M", "XL"],
+            "total": 10,
+            "colors": ["pink", "white", "black"]
+          }
+        ]
+      },
+      { "id": "17", "name": "Blusas Cortas", "items": [] },
+      { "id": "18", "name": "Shorts Cortos", "items": [] }
+    ]
+  },
+  {
+    "id": "hombre",
+    "name": "Hombre",
+    "category": [
+      {
+        "id": "9",
+        "name": "Camisetas",
+        "items": [
+          {
+            "id": "28",
+            "name": "Camiseta Blanca",
+            "url": ["./camisablancah.webp"],
+            "value": 20,
+            "size": ["XS", "M"],
+            "total": 1,
+            "colors": ["red", "blue", "black"]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "name": "Shorts",
+        "items": [
+          {
+            "id": "29",
+            "name": "Short de Playa",
+            "url": ["./shortplayah.webp"],
+            "value": 7,
+            "size": ["XS", "M", "XL"],
+            "total": 2,
+            "colors": ["red", "green", "black"]
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "name": "Abrigos",
+        "items": [
+          {
+            "id": "30",
+            "name": "Abrigo de NewYork",
+            "url": ["./abrigonyh.webp"],
+            "value": 50,
+            "size": ["M", "L"],
+            "total": 5,
+            "colors": ["red", "white", "black"]
+          }
+        ]
+      },
+      { "id": "12", "name": "Chaquetas", "items": [] },
+      { "id": "13", "name": "Suéteres", "items": [] },
+      {
+        "id": "14",
+        "name": "Pantalones",
+        "items": [
+          {
+            "id": "31",
+            "name": "Pantalón Elastisado Negro",
+            "url": ["./pantalonnegroh.webp"],
+            "value": 40,
+            "size": ["XS"],
+            "total": 13,
+            "colors": ["white", "pink", "black"]
+          }
+        ]
+      },
+      { "id": "15", "name": "Trajes", "items": [] },
+      { "id": "16", "name": "Corbatas", "items": [] }
+    ]
+  }
+]
